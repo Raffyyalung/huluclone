@@ -1,0 +1,91 @@
+body{
+    background-color: #0b0c0f;
+}
+.navbartomaster{
+    background-image: url("original.jfif");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.navbar-brand{
+    width:200px;
+}
+.btn{
+    color:white;
+    text-decoration: none;
+}
+.customsize img{
+    height: 515px;
+    width: 283px;
+
+}
+span{
+    color: green;
+    font-weight: bold;
+}
+.container{
+    padding: 50px 0px 60px 0px;
+
+}
+.library{
+    margin-top: 10px;
+    padding-top: 30px;
+}
+h2, p, h3{
+    color:white;
+    font-weight: bold;
+}
+.disclaimer{
+    color:white;
+    font-size: 11px;
+    text-align: left;
+}
+
+.masterhead{
+    padding-top: 50px;
+    /* background-image: url("original.jfif");
+    background-size:cover;
+    background-repeat: no-repeat; */
+}
+
+.accesibility img{
+    height: 135px;
+    width: 602px;
+}
+.buttonone{
+  align-items: center;
+    background-color: rgb(28, 231, 131);
+    width: 670px;
+    height: 48px;
+    border-radius: 5px;
+    border:none;
+}
+.terms{
+    padding: 20px 20px;
+}
+.masterheadterms a{
+    color:white;
+    font-size: 12px;
+    padding: 0px 0px 0px 35px;
+}
+.masterhead-hulu-only a, .terms a{
+    color:white;
+    
+}
+.masterhead-hulu-only{
+    padding: 20px 0px 40px 0px;
+}
+.get-hulu-withads{
+    color:white;
+font-size: 25px;
+}
+
+.ribbon{
+    background-color: rgb(71, 71, 71);
+}
+.Ribbon__brand-img{
+    padding-left: 60px;
+}
+
+  .p{
+    width: 50px;
+  }
